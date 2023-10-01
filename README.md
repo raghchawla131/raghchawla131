@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @raghchawla131
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋
 
-<!---
-raghchawla131/raghchawla131 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Raghav a second-year B.Tech CSE student. I do Frontend web development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghchawla131)](https://github.com/anuraghazra/github-readme-stats)

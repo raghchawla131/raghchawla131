@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Raghav a second-year B.Tech CSE student. I do Full stack web development.
+I'm a third-year B.Tech CSE student specializing in full-stack web development, proficient in React.js, Tailwind CSS, Express.js, Next.js, and MySQL.
 
 [![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghchawla131)](https://github.com/anuraghazra/github-readme-stats)
 
